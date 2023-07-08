@@ -56,7 +56,7 @@ const FooterLink: React.FC<IFooterLink &
           target="_blank"
           rel="noopener noreferrer"
           href="https://www.linkedin.com/in/vaibhav-kamat-08453a1a6/"  //todo: add linkedin link
-          aria-label="Go To Adenekan Wonderful Linkedin Page"
+          aria-label="Go To vaibhav kamat Linkedin Page"
           title="Linkedin Page"
         >
           <Linkedin />
@@ -75,7 +75,7 @@ const FooterLink: React.FC<IFooterLink &
           target="_blank"
           rel="noopener noreferrer"
           href="https://instagram.com/vaibhav_kamat_"
-          aria-label="Go To Adenekan Wonderful Instagram Page"
+          aria-label="Go To vaibhav kamat Instagram Page"
           title="Instagram Page"
         >
           <Instagram />
