@@ -74,7 +74,7 @@ const About = () => {
                   rel="noopener noreferrer"
                   id="cardHover"
                   aria-label="Portfolio Website"
-                  href='github.com'     //  <---  Add your github link here
+                  href='https://github.com/Vaibhav13kamat/vaibhav-kamat-portfolio'     //  <---  Add your github link here
                 >
                   Portfolio Website.
                 </a>
